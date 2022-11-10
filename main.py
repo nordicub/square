@@ -7,7 +7,7 @@ pygame.init()
 # icon, caption, screen, and start ticks
 screen = pygame.display.set_mode((800, 680))
 pygame.display.set_caption("square")
-icon = pygame.image.load('square.png')
+icon = pygame.image.load('squareicon.png')
 pygame.display.set_icon(icon)
 # variables
 tesla = 0
